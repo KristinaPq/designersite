@@ -264,17 +264,7 @@ header {
   position: relative;
 }
 
-.services__title-box:before,
-.form__title-box:before,
-.news__title-box:before {
-  content: "";
-  position: absolute;
-  width: 100px;
-  height: 2px;
-  background-color: #2288FF;
-  left: 0;
-  top: 11px;
-}
+
 
 .services__title,
 .form__title,
